@@ -72,7 +72,6 @@ Follow the on-screen prompts to play. All game actions and progress are displaye
 Player1 X's turn.
 Enter the column Number you want to place the Piece : (1-7) or 'quit' to exit:
 
-
 ---
 
 **🎉✨ Enjoy playing Four in a Row on your command line! 🕹️🔥**
