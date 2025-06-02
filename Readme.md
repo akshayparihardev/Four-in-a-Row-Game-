@@ -1,8 +1,5 @@
-# Four in a Row (Connect Four) - Python CLI Game
-
-A simple and interactive command-line (CLI) version of the classic Connect Four game for two players, written in Python.
-
----
+# 🎮 Four in a Row (Connect Four) – Python CLI Game
+A simple, interactive, and user-friendly command-line (CLI) version of the classic Connect Four game for two players, written in Python.
 
 ## 📖 About The Project
 
